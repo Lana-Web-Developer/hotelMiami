@@ -1,7 +1,6 @@
 # hotelMiami
 **Luxury real estate Miami — адаптивный лендинг «Condo Kings» (верстка по макету Figma)**
 Пет-проект, демонстрирующий навыки верстки лендинга недвижимости.
-[![Live Demo](https://img.shields.io/badge/Открыть_демо-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://lana-web-developer.github.io/hotelMiami/)
 
 ## О проекте
 Одностраничный лендинг недвижимости. 
